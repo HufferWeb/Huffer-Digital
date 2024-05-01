@@ -129,7 +129,7 @@ p{
 
 .header__img {
   width: 100%;
-  background-image: url('/img/image.png');
+  background-image: url('img/image.png');
   background-position: right center;
   background-repeat: no-repeat; 
   background-size: contain; 
@@ -340,20 +340,20 @@ p{
 }
 
 .hle-img {
-  background: url("../img/hle-sm.jpg");
+  background: url("img/hle-sm.jpg");
 }
 
 .cl-img {
-  background: url("../img/cl-sm.jpg");
+  background: url("img/cl-sm.jpg");
 
 }
 
 .ddg-img {
-  background: url("../img/ddg-sm.jpg");
+  background: url("img/ddg-sm.jpg");
 }
 
 .cts-img {
-  background: url("../img/cts.gif");
+  background: url("img/cts.gif");
 }
 
 .contact__container {
@@ -606,7 +606,7 @@ input[type="email"]:focus, textarea:focus {
       height: 1080px;
       z-index: 1;
       background-position: center top;
-      background-image: url('../img/overlay_small.png');
+      background-image: url('img/overlay_small.png');
     }
 
     .nav-links .logo {
@@ -741,16 +741,16 @@ input[type="email"]:focus, textarea:focus {
 }
 
 .hle-img {
-  background: url("../img/hle-lg.jpg");
+  background: url("img/hle-lg.jpg");
 }
 
 .cl-img {
-  background: url("../img/cl-lg.jpg");
+  background: url("img/cl-lg.jpg");
 
 }
 
 .ddg-img {
-  background: url("../img/ddg-lg.jpg");
+  background: url("img/ddg-lg.jpg");
 }
 
 .contact-flex {
